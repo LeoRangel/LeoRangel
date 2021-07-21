@@ -1,6 +1,6 @@
-### "Olá devs!" \o/ 👋
+### "Olá devs!" 👋
 
-Eu me chamo Leandro Rangel, sou desenvolvedor Full Stack e trabalho a aproximadamente 2 anos com desenvolvimento WEB. Atualmente estou me dedicando a área de Front-End, mais especificamente, estou estudando JavaScript e ReactJS.
+Eu me chamo Leandro Rangel, sou desenvolvedor Full Stack e trabalho a aproximadamente 2 anos com desenvolvimento WEB. Atualmente estou me dedicando a área de Front-End.
 
 Redes sociais:
 
