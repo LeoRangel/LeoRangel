@@ -1,10 +1,10 @@
-### "Olá devs!" 👋
+### Olá devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Eu me chamo Leandro Rangel, sou desenvolvedor Full Stack e trabalho a aproximadamente 2 anos com desenvolvimento WEB. Atualmente estou me dedicando a área de Front-End.
 
 #### :books: Estudando:
-[![React Badge](https://img.shields.io/badge/-React-blue)](https://github.com/LeoRangel/)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)](https://github.com/LeoRangel/)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 #### :+1: Redes sociais:
 
