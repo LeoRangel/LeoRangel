@@ -2,7 +2,11 @@
 
 Eu me chamo Leandro Rangel, sou desenvolvedor Full Stack e trabalho a aproximadamente 2 anos com desenvolvimento WEB. Atualmente estou me dedicando a área de Front-End.
 
-Redes sociais:
+#### :books: Estudando:
+[![React Badge](https://img.shields.io/badge/-React-blue)]()
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)]()
+
+#### :+1: Redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-ranggel)](https://www.linkedin.com/in/omariosouto)
 
