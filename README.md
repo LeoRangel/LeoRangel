@@ -1,6 +1,6 @@
 ### "Olá devs!" \o/ 👋
 
-Eu me chamo Leandro Rangel e sou desenvolvedor Full Stack. Atualmente estou me dedicando a área de Front-End, mais especificamente, estou estudando JavaScript e ReactJS.
+Eu me chamo Leandro Rangel, sou desenvolvedor Full Stack e trabalho a aproximadamente 2 anos com desenvolvimento WEB. Atualmente estou me dedicando a área de Front-End, mais especificamente, estou estudando JavaScript e ReactJS.
 
 Redes sociais:
 
@@ -9,4 +9,4 @@ Redes sociais:
 ____
 
 
-[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=LeoRangel&theme=dark&show_icons=true&count_private=true)](https://github.com/felipefialho)
+[![Leandro Rangel's github stats](https://github-readme-stats.vercel.app/api?username=LeoRangel&theme=light&show_icons=true&count_private=true)]()
