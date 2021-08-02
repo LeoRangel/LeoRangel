@@ -21,15 +21,18 @@ Eu me chamo Leandro Rangel, sou desenvolvedor Full Stack e trabalho a aproximada
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 
 #### :black_nib: Design
-[![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/leandroranggel)
-[![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](#)
-[![Photoshop](https://img.shields.io/badge/-Figma-blueviolet)](#)
+[![Photoshop](https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 #### :+1: Social:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ranggel)
-
+<a href="mailto:leandro.mdrs06@gmail.com">
+      <img alt="Leandro Rangel" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoBackground=red&logoColor=white&link=mailto:leandro.mdrs06@gmail.com" />
+</a>
+[![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/leandroranggel)
 ____
 
 
 [![Leandro Rangel's github stats](https://github-readme-stats.vercel.app/api?username=LeoRangel&theme=light&show_icons=true&count_private=true)](#)
+
