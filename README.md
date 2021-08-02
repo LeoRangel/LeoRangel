@@ -1,6 +1,6 @@
 ### Olá devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Eu me chamo Leandro Rangel, sou desenvolvedor Full Stack e trabalho a aproximadamente 2 anos com desenvolvimento WEB. Atualmente estou me dedicando a área de Front-End.
+Eu me chamo Leandro Rangel e sou desenvolvedor Full Stack. Atualmente estou me dedicando a área de Front-End.
 
 #### :books: Estudando:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
