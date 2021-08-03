@@ -28,7 +28,7 @@ Eu me chamo Leandro Rangel e sou desenvolvedor Full Stack. Atualmente estou me d
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ranggel)
 <a href="mailto:leandro.mdrs06@gmail.com">
-      <img alt="Leandro Rangel" src="https://img.shields.io/badge/-Gmail-5659EB?style=for-the-badge&logo=Gmail&logoBackground=red&logoColor=white&link=mailto:leandro.mdrs06@gmail.com" />
+      <img alt="Leandro Rangel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 [![Behance Badge](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/leandroranggel)
 ____
