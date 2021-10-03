@@ -39,8 +39,8 @@ Eu me chamo Leandro Rangel e sou desenvolvedor Web Full Stack. Atualmente estou 
 ____
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&show_icons=true&hide_border=true&theme=light" alt="LeoRangel's stats" height="200"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=en&layout=compact&theme=light&hide_border=true" alt="LeoRangel's stats" height="200"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&show_icons=true&hide_border=true&theme=light" alt="LeoRangel's stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=en&layout=compact&theme=light&hide_border=true" alt="LeoRangel's stats" height="180"/>
 </p>
 
 ____
