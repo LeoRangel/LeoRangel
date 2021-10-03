@@ -38,14 +38,8 @@ Eu me chamo Leandro Rangel e sou desenvolvedor Web Full Stack. Atualmente estou 
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leandroranggel) -->
 ____
 
-<p align="center">
+<p align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&show_icons=true&hide_border=true&theme=light&count_private=true" alt="LeoRangel's stats" height="150"/>
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=en&layout=compact&theme=light&hide_border=true" alt="LeoRangel's stats" height="150"/> -->
 	<img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=light&hide_border=true&count_private=true" height="150"/>
 </p>
-
-<!-- ____
-
-<p align="center">
-      <img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=light&hide_border=true" height="200"/>
-</p> -->
