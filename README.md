@@ -1,8 +1,8 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=LeoRangel&label=Profile%20views&color=0e75b6&style=flat" alt="LeoRangel" /></p>
-
 ### Olá devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Eu me chamo Leandro Rangel e sou desenvolvedor Web Full Stack. Atualmente estou me dedicando aos estudos na área de Front-End. Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento.
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LeoRangel&label=Profile%20views&color=0e75b6&style=flat" alt="LeoRangel" /></p>
 
 #### :books: Estudando/Aprimorando:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
@@ -39,12 +39,13 @@ Eu me chamo Leandro Rangel e sou desenvolvedor Web Full Stack. Atualmente estou 
 ____
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&show_icons=true&hide_border=true&theme=light" alt="LeoRangel's stats" height="180"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=en&layout=compact&theme=light&hide_border=true" alt="LeoRangel's stats" height="180"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&show_icons=true&hide_border=true&theme=light" alt="LeoRangel's stats" height="150"/>
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=en&layout=compact&theme=light&hide_border=true" alt="LeoRangel's stats" height="150"/> -->
+	<img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=light&hide_border=true" height="150"/>
 </p>
 
-____
+<!-- ____
 
 <p align="center">
       <img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=light&hide_border=true" height="200"/>
-</p>
+</p> -->
