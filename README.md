@@ -29,13 +29,13 @@ Eu me chamo Leandro Rangel e sou desenvolvedor Web Full Stack. Atualmente estou 
 [![Photoshop](https://img.shields.io/badge/Photoshop-24205E.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
 
-<!-- #### :+1: Social:
+#### :+1: Social:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ranggel)
 <a href="mailto:leandro.mdrs06@gmail.com">
       <img alt="Leandro Rangel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leandroranggel) -->
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leandroranggel)
 ____
 
 <p align="left">
