@@ -8,7 +8,7 @@ Eu me chamo Leandro Rangel e aqui estão algumas informações sobre mim:
 	<li>Trabalho atualmente como desenvolvedor Web Full Stack</li>
 	<li>Estou atualmente me dedicando aos estudos na área de Front-End</li>
 	<li>Meu objetivo é trabalhar como desenvolvedor Front-End</li>
-	<li>Meus interesse incluem também Design, UI e UX design, SEO e Acessibilidade Web</li>
+	<li>Meus interesses incluem também Design, UI e UX design, SEO e Acessibilidade Web</li>
 	<li>
 		Meu Linkedin: 
 		<a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">
@@ -23,11 +23,11 @@ Eu me chamo Leandro Rangel e aqui estão algumas informações sobre mim:
 	</li>
 </ul>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LeoRangel&label=Profile%20views&color=0e75b6&style=flat" alt="LeoRangel" /></p>
+
 <p>
 Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento.
 </p>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=LeoRangel&label=Profile%20views&color=0e75b6&style=flat" alt="LeoRangel" /></p>
 
 <h4>:open_book: Estudando no momento:</h4>
 <span>
@@ -60,6 +60,7 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
 </span>
 <br>
 <span>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
