@@ -1,7 +1,7 @@
 <h1>Olá, tudo blz?! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p>
-Eu me chamo Leandro Rangel e aqui estão algumas informações sobre mim:
+Eu sou o Leandro Rangel e aqui estão algumas informações sobre mim:
 </p>
 <ul>
 	<li>Sou graduado em Ciência da Computação</li>
