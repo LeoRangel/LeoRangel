@@ -50,7 +50,7 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
 <!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> -->
 </span>
 
-<h4>:man_technologist: Algumas linguagens e ferramentas que uso/já usei:</h4>
+<h4>:man_technologist: Algumas outras linguagens e ferramentas que uso/já usei:</h4>
 <span>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
