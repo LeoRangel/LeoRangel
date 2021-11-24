@@ -6,8 +6,8 @@ Eu me chamo Leandro Rangel e aqui estão algumas informações sobre mim:
 <ul>
 	<li>Sou graduado em Ciência da Computação</li>
 	<li>Trabalho atualmente como desenvolvedor Web Full Stack</li>
-	<li>Estou atualmente me dedicando aos estudos na área de Front-End</li>
-	<li>Meu objetivo é trabalhar como desenvolvedor Front-End e dominar a stack javascript</li>
+	<li>Estou em busca de uma oportunidade como desenvolvedor Front-End</li>
+	<li>Atualmente me dedico aos estudos na área de Front-End e quero dominar a stack JavaScript/React</li>
 	<li>Meus interesses incluem também Design, UI e UX design, SEO e Acessibilidade Web</li>
 	<li>
 		Meu Linkedin: 
