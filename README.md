@@ -2,6 +2,14 @@
 	Hi there, I'm Leandro Rangel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
+<p>
+Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor Web Freelancer e estou em busca de uma oportunidade como desenvolvedor Front-End. Atualmente me dedico aos estudos nesta área e um dos meus objetivos é dominar a stack JavaScript + React. Meus interesses incluem também Web design, UI e UX design, SEO e Acessibilidade Web. Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento.
+</p>
+
+<p>
+Para conectar-se comigo no Linkedin <a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">clique aqui</a>. :)
+</p>
+
 <!-- <p>
 Aqui estão algumas informações sobre mim:
 </p>
@@ -17,10 +25,6 @@ Aqui estão algumas informações sobre mim:
 		para conectar-se comigo no Linkedin :)
 	</li>
 </ul> -->
-
-<p>
-Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor Web Freelancer e estou em busca de uma oportunidade como desenvolvedor Front-End. Atualmente me dedico aos estudos nesta área e um dos meus objetivos é dominar a stack JavaScript + React. Meus interesses incluem também Web design, UI e UX design, SEO e Acessibilidade Web. Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento. Para conectar-se comigo no Linkedin <a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">clique aqui</a>. :)
-</p>
 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=LeoRangel&label=Profile%20views&color=0e75b6&style=flat" alt="LeoRangel" /></p> -->
 
@@ -143,8 +147,8 @@ Add 'style=for-the-badge' depois da '?' para mudar o estilo
 
 <hr>
 
-<p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats" height="150"/>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats"/>
 <!-- 	<img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=react&hide_border=true&count_private=true&locale=pt-br" height="150"/> -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats" height="150"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats"/>
 </p>
