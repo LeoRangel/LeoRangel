@@ -1,32 +1,24 @@
 <h1>
-	Hello everyone!
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+	Hi there, I'm Leandro Rangel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
 <p>
-Eu me chamo Leandro Rangel e aqui estão algumas informações sobre mim:
+Aqui estão algumas informações sobre mim:
 </p>
 <ul>
 	<li>Sou graduado em Ciência da Computação</li>
-	<li>Trabalho atualmente como desenvolvedor Web Full Stack</li>
-	<li>Estou em busca de uma oportunidade como desenvolvedor Front-End</li>
+	<li>Trabalho atualmente como desenvolvedor Web Full Stack e estou em busca de uma oportunidade como desenvolvedor Front-End</li>
 	<li>Atualmente me dedico aos estudos na área de Front-End e quero dominar a stack JavaScript/React</li>
 	<li>Meus interesses incluem também Design, UI e UX design, SEO e Acessibilidade Web</li>
 	<li>
-		Meu Linkedin: 
+		Conectar-se comigo no Linkedin
 		<a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">
-		    https://www.linkedin.com/in/leandro-ranggel
-		</a>
-	</li>
-	<li>
-		Meu Email: 
-		<a href="mailto:leandro.mdrs06@gmail.com">
-		    leandro.mdrs06@gmail.com
+		    clicando aqui
 		</a>
 	</li>
 </ul>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=LeoRangel&label=Profile%20views&color=0e75b6&style=flat" alt="LeoRangel" /></p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=LeoRangel&label=Profile%20views&color=0e75b6&style=flat" alt="LeoRangel" /></p> -->
 
 <p>
 Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento.
