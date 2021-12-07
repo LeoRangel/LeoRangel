@@ -7,14 +7,14 @@ Aqui estão algumas informações sobre mim:
 </p>
 <ul>
 	<li>Sou graduado em Ciência da Computação</li>
-	<li>Trabalho atualmente como desenvolvedor Web Full Stack e estou em busca de uma oportunidade como desenvolvedor Front-End</li>
+	<li>Trabalho atualmente como desenvolvedor Web Full Stack e estou em busca de uma oportunidade como dev Front-End</li>
 	<li>Atualmente me dedico aos estudos na área de Front-End e quero dominar a stack JavaScript/React</li>
 	<li>Meus interesses incluem também Design, UI e UX design, SEO e Acessibilidade Web</li>
 	<li>
-		Conectar-se comigo no Linkedin
 		<a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">
-		    clicando aqui
+		    Clique aqui
 		</a>
+		para conectar-se comigo no Linkedin :)
 	</li>
 </ul>
 
