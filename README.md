@@ -148,7 +148,7 @@ Add 'style=for-the-badge' depois da '?' para mudar o estilo
 <hr>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats" height="160"/>
 <!-- 	<img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=react&hide_border=true&count_private=true&locale=pt-br" height="150"/> -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats" height="160"/>
 </p>
