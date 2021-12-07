@@ -28,6 +28,7 @@ Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor
 Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento.
 </p> -->
 
+<br>
 <table>
     <tr>
         <th>:open_book:<br>Estudando no momento:</th>
@@ -66,6 +67,13 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
                 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white">
                 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?&logo=wordpress&logoColor=white">
                 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white">
+                <img alt="Python" src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white"/>
+                <img alt="Django" src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white">
+                <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?&logo=laravel&logoColor=white">
+                <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white">
+                <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white">
+                <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?&logo=unity&logoColor=white">
+                <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?&logo=heroku&logoColor=white">
             </span>
         </td>
         <td>
@@ -76,6 +84,7 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
         </td>
     </tr>
 </table>
+<br>
 
 <!-- <h4>:open_book: Estudando no momento:</h4>
 <span>
