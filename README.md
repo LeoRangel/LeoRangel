@@ -31,25 +31,27 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
 <br>
 <table>
     <tr>
-        <th>:open_book:<br>Estudando no momento:</th>
-        <th>:books:<br>Quero aprender (+) em breve:</th>
-        <th>:man_technologist:<br>Algumas outras linguagens e ferramentas que uso/já usei:</th>
+        <th>:open_book:<br>Estudando no<br>momento:</th>
+        <th>:books:<br>Quero aprender (+)<br>em breve:</th>
+        <th>:man_technologist:<br>Algumas outras linguagens e<br>ferramentas que uso/já usei:</th>
         <th>:black_nib:<br>Ferramentas de Design:</th>
     </tr>
     <tr>
         <td>
-            <span>
+            <p align="center">
                 <!-- Add 'style=for-the-badge' depois da '?' para mudar o estilo -->
+		<br>
                 <img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB">
                 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black">
                 <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white">
                 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white">
                 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white">
                 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white">
-            </span>
+            </p>
         </td>
         <td>
-            <span>
+            <p align="center">
+		<br>
                 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB">
                 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white"/>
                 <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white">
@@ -57,10 +59,11 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
                 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?&logo=firebase&logoColor=black">
                 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white">
                 <!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?&logo=flutter&logoColor=white"> -->
-            </span>
+            </p>
         </td>
         <td>
-            <span>
+            <p align="center">
+		<br>
                 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white">
                 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white">
                 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white">
@@ -74,13 +77,14 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
                 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white">
                 <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?&logo=unity&logoColor=white">
                 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?&logo=heroku&logoColor=white">
-            </span>
+            </p>
         </td>
         <td>
-            <span>
+            <p align="center">
+		<br>
                 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?&logo=adobe-photoshop&logoColor=white">
                 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?&logo=figma&logoColor=white">
-            </span>
+            </p>
         </td>
     </tr>
 </table>
