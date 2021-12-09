@@ -10,7 +10,7 @@ Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor
 <h3>Contato:</h3>
 <ul>
 	<li>
-	Para falar comigo mande um e-mail para <a href="mailto:leandro.mdrs06@gmail.com" target="_blank">leandro.mdrs06@gmail.com</a>
+	Para falar comigo, mande um e-mail para <a href="mailto:leandro.mdrs06@gmail.com" target="_blank">leandro.mdrs06@gmail.com</a>
 	</li>
 	<li>
 	Ou <a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">clique aqui</a> para conectar-se comigo no Linkedin. :)
@@ -49,7 +49,7 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
     <tr>
         <th>:open_book:<br>Estudando no<br>momento:</th>
         <th>:books:<br>Quero aprender (+)<br>em breve:</th>
-        <th>:man_technologist:<br>Algumas outras linguagens e<br>ferramentas que uso/já usei:</th>
+        <th>:man_technologist:<br>Algumas outras que <br>uso ou já usei:</th>
         <th>:black_nib:<br>Ferramentas de Design:</th>
     </tr>
     <tr>
