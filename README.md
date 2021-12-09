@@ -92,7 +92,7 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
         </td>
     </tr>
 </table>
-<br>
+<!-- <br> -->
 
 <!-- <h4>:open_book: Estudando no momento:</h4>
 <span>
@@ -145,7 +145,7 @@ Add 'style=for-the-badge' depois da '?' para mudar o estilo
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=leorangel&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<hr>
+<!-- <hr> -->
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats" height="163"/>
