@@ -2,12 +2,25 @@
 	Hi there, I'm Leandro Rangel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
+<h3>Sobre mim:</h3>
 <p>
-Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor Web Freelancer e estou em busca de uma oportunidade como desenvolvedor Front-End. Atualmente me dedico aos estudos nesta área e um dos meus objetivos é dominar a stack JavaScript + React. Meus interesses incluem também Web design, UI e UX design, SEO e Acessibilidade Web. Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento.
+Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor Web Freelancer e estou em busca de uma oportunidade como desenvolvedor Front-End. Atualmente me dedico aos estudos nesta área e um dos meus objetivos é dominar a stack JavaScript + React. Meus interesses incluem também Web design, UI e UX design, SEO e Acessibilidade Web.
 </p>
 
+<h3>Contato:</h3>
+<ul>
+	<li>
+	Para falar comigo mande um e-mail para <a href="mailto:leandro.mdrs06@gmail.com" target="_blank">leandro.mdrs06@gmail.com</a>
+	</li>
+	<li>
+	Ou <a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">clique aqui</a> para conectar-se comigo no Linkedin. :)
+	</li>
+</ul>
+
+
+<h3>Linguagens e ferramentas:</h3>
 <p>
-Para conectar-se comigo no Linkedin <a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">clique aqui</a>. :)
+Abaixo estão listadas algumas das minhas habilidades em linguagens e ferramentas de desenvolvedor e designer, incluindo as que estou aprimorando no momento.
 </p>
 
 <!-- <p>
@@ -32,7 +45,6 @@ Aqui estão algumas informações sobre mim:
 Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou aprimorando no momento.
 </p> -->
 
-<br>
 <table>
     <tr>
         <th>:open_book:<br>Estudando no<br>momento:</th>
@@ -142,12 +154,13 @@ Add 'style=for-the-badge' depois da '?' para mudar o estilo
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?&logo=figma&logoColor=white">
 </span> -->
 
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=leorangel&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- <hr> -->
 
-<p align="center">
+<h3>Minha atividade no GitHub:</h3>
+
+<p align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats" height="163"/>
 <!-- 	<img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=react&hide_border=true&count_private=true&locale=pt-br" height="150"/> -->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats" height="163"/>
