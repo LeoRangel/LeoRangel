@@ -4,7 +4,7 @@
 
 <h3>Sobre mim:</h3>
 <p>
-Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor Web Freelancer e estou em busca de uma oportunidade como desenvolvedor Front-End. Atualmente me dedico aos estudos nesta área e um dos meus objetivos é dominar a stack JavaScript + React. Meus interesses incluem também Web design, UI e UX design, SEO e Acessibilidade Web.
+Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor Web Freelancer e estou em busca de uma oportunidade como desenvolvedor Front-End. Atualmente me dedico aos estudos nesta área e um dos meus objetivos é dominar a stack JavaScript + React. Meus interesses incluem também Web design, UI e UX design, SEO, Responsividade e Acessibilidade Web.
 </p>
 
 <h3>Contato:</h3>
