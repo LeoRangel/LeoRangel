@@ -74,6 +74,8 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
                 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white">
                 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?&logo=firebase&logoColor=black">
                 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white">
+		<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
+		<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
                 <!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?&logo=flutter&logoColor=white"> -->
             </p>
         </td>
