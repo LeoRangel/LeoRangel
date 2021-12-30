@@ -10,7 +10,7 @@ Sou graduado em Ciência da Computação, trabalho atualmente como desenvolvedor
 <h3>Contato:</h3>
 <ul>
 	<li>
-	Para falar comigo, mande um e-mail para <a href="mailto:leandro.mdrs06@gmail.com" target="_blank">leandro.mdrs06@gmail.com</a>
+	Mande um um e-mail para <a href="mailto:leandro.mdrs06@gmail.com" target="_blank">leandro.mdrs06@gmail.com</a>
 	</li>
 	<li>
 	Ou <a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">clique aqui</a> para conectar-se comigo no Linkedin. :)
