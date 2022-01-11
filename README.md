@@ -75,7 +75,8 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
                 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?&logo=firebase&logoColor=black">
                 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white">
 		<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
-		<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
+		<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white">
+		<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white">
                 <!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?&logo=flutter&logoColor=white"> -->
             </p>
         </td>
@@ -88,6 +89,7 @@ Abaixo estão listadas algumas das minhas habilidades, incluindo as que estou ap
                 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white">
                 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?&logo=wordpress&logoColor=white">
                 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white">
+		<img alt="JQUery" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white">
                 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white"/>
                 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white">
                 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?&logo=laravel&logoColor=white">
