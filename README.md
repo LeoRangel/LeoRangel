@@ -6,6 +6,7 @@
 <p>
 Me chamo Leandro, sou graduado em Ciência da Computação e tenho experiência e conhecimento em desenvolvimento Web Full Stack com maior foco na área de Front-End. Atualmente me dedico aos estudos nesta área com o objetivo de dominar a stack JavaScript + React. Meus interesses incluem também boas práticas de desenvolvimento, performance, SEO, responsividade, acessibilidade, web design, UI e UX design.
 </p>
+<a href="https://leorangel.github.io/" target="_blank">https://leorangel.github.io/</a>
 
 <h3>Contato:</h3>
 <ul>
