@@ -1,4 +1,6 @@
-<h2>Sobre mim:</h2>
+<h1>Hello world! I'm Leandro 👋</h1>
+
+<h3>Sobre mim:</h3>
 <p>🎓 Sou graduado em Ciência da Computação</p>
 <p>👨‍💻 Tenho experiência e conhecimento em desenvolvimento Web Full Stack com maior foco na área de Front-End</p>
 <p>🧠 Atualmente estudando Front-End com o objetivo de dominar a stack JavaScript + React</p>
@@ -15,8 +17,8 @@
 	</a>
 </p>
 
-<h2>Tecnologias, linguagens, ferramentas...</h2>
-<table>
+<h3>Tecnologias, linguagens, ferramentas...</h3>
+<table border="none">
     <tr>
         <td>
 		<h6>Estudando no momento:</h6>
