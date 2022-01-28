@@ -4,6 +4,7 @@
 <p>👨‍💻 Tenho experiência e conhecimento em desenvolvimento Web Full Stack com maior foco na área de Front-End</p>
 <p>🧠 Atualmente estudando Front-End com o objetivo de dominar a stack JavaScript + React</p>
 <p>⭐ Meus interesses incluem também boas práticas de desenvolvimento, performance, SEO, responsividade, acessibilidade, web design, UI e UX design</p>
+<br>
 <p>
 	<a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
