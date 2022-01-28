@@ -1,19 +1,18 @@
 <h1>Hello world! I'm Leandro 👋</h1>
 
-<h3>Sobre mim:</h3>
 <p>🎓 Sou graduado em Ciência da Computação</p>
 <p>👨‍💻 Tenho experiência e conhecimento em desenvolvimento Web Full Stack com maior foco na área de Front-End</p>
 <p>🧠 Atualmente estudando Front-End com o objetivo de dominar a stack JavaScript + React</p>
 <p>⭐ Meus interesses incluem também boas práticas de desenvolvimento, performance, SEO, responsividade, acessibilidade, web design, UI e UX design</p>
 <p>
 	<a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn">
+		<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
 	<a href="mailto:leandro.mdrs06@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+		<img src="https://img.shields.io/badge/e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 	</a>
 	<a href="https://leorangel.github.io/" target="_blank">
-		<img src="https://img.shields.io/badge/leorangel.github.io-0077B5?style=for-the-badge&color=success" alt="LinkedIn">
+		<img src="https://img.shields.io/badge/leorangel.github.io-D14836?style=for-the-badge&color=success" alt="Webpage">
 	</a>
 </p>
 
@@ -28,7 +27,7 @@
 		<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white">
 		<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white">
 		<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white">
-		<h6>Quero estudar (+) em breve:</h6>
+		<h6>Quero estudar mais, em breve:</h6>
 		<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white"/>
 		<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white">
 		<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white">
@@ -47,7 +46,6 @@
 		<img alt="Django" src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white">
 		<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?&logo=laravel&logoColor=white">
 		<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?&logo=unity&logoColor=white">
-		<h6>Design:</h6>
 		<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-24205E.svg?&logo=adobe-photoshop&logoColor=white">
 		<img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?&logo=figma&logoColor=white">
         </td>
