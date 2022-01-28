@@ -21,35 +21,35 @@
     <tr>
         <td>
 		<p>Estudando no momento:</p>
-		<img alt="React" src="https://img.shields.io/badge/React-444C56?&logo=react&logoColor=61DAFB">
-		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-444C56?&logo=javascript&logoColor=F7DF1E">
-		<img alt="Nextjs" src="https://img.shields.io/badge/Next.JS-444C56?&logo=nextdotjs&logoColor=000000">
-		<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-444C56?&logo=typescript&logoColor=007ACC">
-		<img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-444C56?&logo=styled-components&logoColor=DB7093">
-		<img alt="Jest" src="https://img.shields.io/badge/Jest-444C56?&logo=jest&logoColor=C21325">
+		<img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB">
+		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?&logo=javascript&logoColor=F7DF1E">
+		<img alt="Nextjs" src="https://img.shields.io/badge/Next.JS-20232A?&logo=nextdotjs&logoColor=000000">
+		<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232A?&logo=typescript&logoColor=007ACC">
+		<img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-20232A?&logo=styled-components&logoColor=DB7093">
+		<img alt="Jest" src="https://img.shields.io/badge/Jest-20232A?&logo=jest&logoColor=C21325">
 		<br><br>
 		<p>Quero estudar mais, em breve:</p>
-		<img alt="Node.js" src="https://img.shields.io/badge/Node.js-444C56?&logo=node.js&logoColor=43853D"/>
-		<img alt="SASS" src="https://img.shields.io/badge/Sass-444C56?&logo=sass&logoColor=CC6699">
-		<img alt="Redux" src="https://img.shields.io/badge/Redux-444C56?&logo=redux&logoColor=593D88">
-		<img alt="Docker" src="https://img.shields.io/badge/Docker-444C56.svg?&logo=docker&logoColor=%230db7ed">
-		<img alt="Firebase" src="https://img.shields.io/badge/Firebase-444C56?&logo=firebase&logoColor=ffca28">
-		<img alt="React Native" src="https://img.shields.io/badge/React_Native-444C56?&logo=react&logoColor=61DAFB">
+		<img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232A?&logo=node.js&logoColor=43853D"/>
+		<img alt="SASS" src="https://img.shields.io/badge/Sass-20232A?&logo=sass&logoColor=CC6699">
+		<img alt="Redux" src="https://img.shields.io/badge/Redux-20232A?&logo=redux&logoColor=593D88">
+		<img alt="Docker" src="https://img.shields.io/badge/Docker-20232A.svg?&logo=docker&logoColor=%230db7ed">
+		<img alt="Firebase" src="https://img.shields.io/badge/Firebase-20232A?&logo=firebase&logoColor=ffca28">
+		<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB">
 		<br><br>
 		<p>Outras que uso/já usei:</p>
-		<img alt="HTML5" src="https://img.shields.io/badge/HTML5-444C56?&logo=html5&logoColor=E34F26">
-		<img alt="CSS3" src="https://img.shields.io/badge/CSS3-444C56?&logo=css3&logoColor=1572B6">
-		<img alt="PHP" src="https://img.shields.io/badge/PHP-444C56?&logo=php&logoColor=777BB4">
-		<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-444C56?&logo=bootstrap&logoColor=563D7C">
-		<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-444C56?&logo=wordpress&logoColor=21759B">
-		<img alt="Git" src="https://img.shields.io/badge/Git-444C56?&logo=git&logoColor=F05032">
-		<img alt="JQUery" src="https://img.shields.io/badge/jQuery-444C56?&logo=jquery&logoColor=0769AD">
-		<img alt="Python" src="https://img.shields.io/badge/Python-444C56?&logo=python&logoColor=14354C"/>
-		<img alt="Django" src="https://img.shields.io/badge/Django-444C56?&logo=django&logoColor=092E20">
-		<img alt="Laravel" src="https://img.shields.io/badge/Laravel-444C56?&logo=laravel&logoColor=FF2D20">
-		<img alt="Unity" src="https://img.shields.io/badge/Unity-444C56?&logo=unity&logoColor=100000">
-		<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-444C56.svg?&logo=adobe-photoshop&logoColor=24205E">
-		<img alt="Figma" src="https://img.shields.io/badge/Figma-444C56.svg?&logo=figma&logoColor=F24D1D">
+		<img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?&logo=html5&logoColor=E34F26">
+		<img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?&logo=css3&logoColor=1572B6">
+		<img alt="PHP" src="https://img.shields.io/badge/PHP-20232A?&logo=php&logoColor=777BB4">
+		<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232A?&logo=bootstrap&logoColor=563D7C">
+		<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-20232A?&logo=wordpress&logoColor=21759B">
+		<img alt="Git" src="https://img.shields.io/badge/Git-20232A?&logo=git&logoColor=F05032">
+		<img alt="JQUery" src="https://img.shields.io/badge/jQuery-20232A?&logo=jquery&logoColor=0769AD">
+		<img alt="Python" src="https://img.shields.io/badge/Python-20232A?&logo=python&logoColor=14354C"/>
+		<img alt="Django" src="https://img.shields.io/badge/Django-20232A?&logo=django&logoColor=092E20">
+		<img alt="Laravel" src="https://img.shields.io/badge/Laravel-20232A?&logo=laravel&logoColor=FF2D20">
+		<img alt="Unity" src="https://img.shields.io/badge/Unity-20232A?&logo=unity&logoColor=100000">
+		<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-20232A.svg?&logo=adobe-photoshop&logoColor=24205E">
+		<img alt="Figma" src="https://img.shields.io/badge/Figma-20232A.svg?&logo=figma&logoColor=F24D1D">
         </td>
         <td>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats" height="170"/>
