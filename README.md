@@ -2,7 +2,7 @@
 
 <p>🎓 Sou graduado em Ciência da Computação</p>
 <p>👨‍💻 Tenho experiência e conhecimento em desenvolvimento Web Full Stack com maior foco na área de Front-End</p>
-<p>🧠 Atualmente estudando Front-End com o objetivo de dominar a stack JavaScript + React</p>
+<p>🧠 Atualmente estudando Front-End e com o objetivo de dominar a stack JavaScript + React</p>
 <p>⭐ Meus interesses incluem também boas práticas de desenvolvimento, performance, SEO, responsividade, acessibilidade, web design, UI e UX design</p>
 <br>
 <p>
@@ -29,7 +29,7 @@
 		<img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-20232A?&logo=styled-components&logoColor=DB7093">
 		<img alt="Jest" src="https://img.shields.io/badge/Jest-20232A?&logo=jest&logoColor=C21325">
 		<br><br>
-		<p>Quero estudar mais, em breve:</p>
+		<p>Quero, em breve, aprender mais sobre:</p>
 		<img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232A?&logo=node.js&logoColor=43853D"/>
 		<img alt="SASS" src="https://img.shields.io/badge/Sass-20232A?&logo=sass&logoColor=CC6699">
 		<img alt="Redux" src="https://img.shields.io/badge/Redux-20232A?&logo=redux&logoColor=593D88">
@@ -37,7 +37,7 @@
 		<img alt="Firebase" src="https://img.shields.io/badge/Firebase-20232A?&logo=firebase&logoColor=ffca28">
 		<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB">
 		<br><br>
-		<p>Outras que uso/já usei:</p>
+		<p>Outras que uso ou já usei:</p>
 		<img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?&logo=html5&logoColor=E34F26">
 		<img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?&logo=css3&logoColor=1572B6">
 		<img alt="PHP" src="https://img.shields.io/badge/PHP-20232A?&logo=php&logoColor=777BB4">
