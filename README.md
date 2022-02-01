@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
-	<a href="mailto:leandro.mdrs06@gmail.com" target="_blank">
+	<a href="mailto:leandrorangelm@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 	</a>
 	<a href="https://leorangel.github.io/" target="_blank">
