@@ -1,10 +1,13 @@
 <h1>Hello world! I'm Leandro 👋</h1>
 
-<p>🎓 Sou graduado em Ciência da Computação</p>
-<p>👨‍💻 Tenho experiência e conhecimento em desenvolvimento Web Full Stack com maior foco na área de Front-End</p>
-<p>🧠 Atualmente estudando Front-End e com o objetivo de dominar a stack JavaScript + React</p>
-<p>⭐ Meus interesses incluem também boas práticas de desenvolvimento, performance, SEO, responsividade, acessibilidade, web design, UI e UX design</p>
+<ul>
+<li>🎓 Sou graduado em Ciência da Computação</li>
+<li>👨‍💻 Tenho experiência em desenvolvimento Web Full Stack com maior foco na área de Front-End</li>
+<li>🧠 Atualmente estudando Front-End e com o objetivo de dominar a stack JavaScript + React</li>
+<li>⭐ Meus interesses incluem também boas práticas de desenvolvimento, performance, SEO, responsividade, acessibilidade, web design, UI e UX design</li>
+</ul>
 <br>
+
 <p>
 	<a href="https://www.linkedin.com/in/leandro-ranggel" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -13,14 +16,18 @@
 		<img src="https://img.shields.io/badge/e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 	</a>
 	<a href="https://leorangel.github.io/" target="_blank">
-		<img src="https://img.shields.io/badge/leorangel.github.io-D14836?style=for-the-badge&color=success" alt="Webpage">
+		<img src="https://img.shields.io/badge/leorangel.github.io-D14836?style=for-the-badge&color=0FBD52" alt="Webpage">
 	</a>
 </p>
 
-<h3>Tecnologias, linguagens, ferramentas...</h3>
+<br>
+<details>
+<summary>Tecnologias, linguagens e ferramentas (clique para ver)</summary>
+<br />
+	
 <table border="none">
     <tr>
-        <td>
+	<td>
 		<p>Estudando no momento:</p>
 		<img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB">
 		<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?&logo=javascript&logoColor=F7DF1E">
@@ -51,11 +58,14 @@
 		<img alt="Unity" src="https://img.shields.io/badge/Unity-20232A?&logo=unity&logoColor=100000">
 		<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-20232A.svg?&logo=adobe-photoshop&logoColor=24205E">
 		<img alt="Figma" src="https://img.shields.io/badge/Figma-20232A.svg?&logo=figma&logoColor=F24D1D">
-        </td>
-        <td>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats" height="170"/>
-		<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats" height="124"/>
+	</td>
+	<td>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats" height="150"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats" height="150"/>
 <!-- 		<img alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&theme=react&hide_border=true&count_private=true&locale=pt-br" height="150"/> -->
-        </td>
+	</td>
     </tr>
 </table>
+
+<br />
+</details>
