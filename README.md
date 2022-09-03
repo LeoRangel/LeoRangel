@@ -137,12 +137,12 @@ Welcome to my github profile
 
 <table>
 <tr>
-<td width="60%">
-	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=fb8c00&icon_color=fb8c00&bg_color=ffffff00&text_color=c9d1d9"/>
-	<img align="center" width="100%" alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&locale=&hide_border=true&count_private=true&title_color=fb8c00&icon_color=fb8c00&bg_color=ffffff00&text_color=c9d1d9"/>
+<td width="59%">
+	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=fb8c00&icon_color=fb8c00"/>
+	<img align="center" width="100%" alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&locale=&hide_border=true&count_private=true&title_color=fb8c00&icon_color=fb8c00"/>
 </td>
-<td width="40%">
-	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=&layout=&theme=vue&hide_border=true&count_private=true&langs_count=6&title_color=fb8c00&icon_color=fb8c00&bg_color=ffffff00&text_color=c9d1d9"/>
+<td width="41%">
+	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=&layout=&theme=vue&hide_border=true&count_private=true&langs_count=6&title_color=fb8c00&icon_color=fb8c00"/>
 </td>
 </tr>
 
