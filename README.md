@@ -6,7 +6,7 @@ Welcome to my github profile
 
 - 👨‍💻 I have experience in Full Stack web development with a greater focus on Front-End
 - ⚙️ I work daily with HTML, CSS, JavaScript, TypeScript, React, NextJs and Gitlab
-- 🌱 I'm always learning something. I'm currently studying VueJs
+- 🌱 I'm always learning something (currently studying VueJs)
 - 🎓 I have a degree in computer science
 - ⚡ My interests also include development best practices, responsive web design, SEO, accessibility, performance, UI and UX design
 
@@ -138,11 +138,11 @@ Welcome to my github profile
 <table>
 <tr>
 <td width="60%">
-	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=&show_icons=true&hide_border=true&theme=vue&count_private=true&hide=stars"/>
-	<img align="center" width="100%" alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&locale=&theme=vue&hide_border=true&count_private=true"/>
+	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=fb8c00&icon_color=fb8c00&bg_color=ffffff00&text_color=c9d1d9"/>
+	<img align="center" width="100%" alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&locale=&hide_border=true&count_private=true&title_color=fb8c00&icon_color=fb8c00&bg_color=ffffff00&text_color=c9d1d9"/>
 </td>
 <td width="40%">
-	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=&layout=&theme=vue&hide_border=true&count_private=true&langs_count=6"/>
+	<img align="center" width="100%" alt="LeoRangel's stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=&layout=&theme=vue&hide_border=true&count_private=true&langs_count=6&title_color=fb8c00&icon_color=fb8c00&bg_color=ffffff00&text_color=c9d1d9"/>
 </td>
 </tr>
 
