@@ -19,9 +19,9 @@ Welcome to my github profile
 	<a href="mailto:leandrorangelm@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 	</a>
-	<a href="https://leorangel.github.io/" target="_blank">
+	<!-- <a href="https://leorangel.github.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Webpage-D14836?style=for-the-badge&color=0FBD52" alt="Webpage">
-	</a>
+	</a> -->
 </p>
 
 ## More information
