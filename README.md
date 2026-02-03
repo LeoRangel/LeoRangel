@@ -2,6 +2,7 @@
 
 Welcome to my github profile
 
+<!--
 ## About me
 
 - 👨‍💻 I have experience in Full Stack web development with a greater focus on Front-End
@@ -9,6 +10,7 @@ Welcome to my github profile
 - 🌱 I'm always learning something (currently studying VueJs)
 - 🎓 I have a degree in computer science
 - ⚡ My interests also include development best practices, responsive web design, SEO, accessibility, performance, UI and UX design
+-->
 
 ## Social
 
